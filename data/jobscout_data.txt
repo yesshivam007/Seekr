@@ -1,0 +1,6 @@
+{
+    "sector": "",
+    "subsector": "",
+    "job_role": "",
+    "opportunity_type": ""
+}
